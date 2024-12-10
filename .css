@@ -1,0 +1,105 @@
+body{
+    background-color: #1F2022;
+
+}
+.z1{
+    position: relative;
+    left: 50px;
+}
+.z2{
+    color: white;
+    position: relative;
+    left: 400px;
+
+}
+.z3{
+    color: white;
+    position: relative;
+    left: 450px;
+}
+.z4{
+    color: white;
+    position: relative;
+    left: 500px;
+}
+.z5{
+    color: white;
+    position: relative;
+    left: 550px ;
+}
+.z6{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 800px;
+}
+.ztu :hover{
+    color: #00ADB5;
+
+}
+.z7{
+    height: 650px;
+    position: relative;
+    left: 50px;
+}
+.z8{
+    color: white;
+    position: relative;
+    left: 800px;
+    top: -550px;
+}
+.z9{
+    font-size: 90px;
+    color: #00ADB5;
+    position: relative;
+    left: 800px;
+    top: -610px;
+}
+.z10{
+    color: #FFFFFF99;
+    position: relative;
+    left: 800px;
+    top: -670px;
+}
+.z11{
+    color: #00ADB5;
+    position: relative;
+    left: 50px;
+    top: -700px;
+}
+.z12{
+    color: white;
+    position: relative;
+    left: 150px;
+    top: -550px;
+} 
+.z13{
+    position: relative;
+    left: 120px;
+    top: -610px;
+}
+.z14{
+    color: white;
+    position: relative;
+    left: 700px;
+    top: -740px;
+}
+.z15{
+    position: relative;
+    left: 700px;
+    top: -730px; 
+}
+.z16{
+    position: relative;
+    left: 710px;
+    top: -730px;
+}
+.z17{
+    position: relative;
+    left: 720px;
+    top: -730px;
+}
+.z90 :hover{
+    color: #00ADB5;
+}
